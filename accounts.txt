@@ -1,0 +1,10 @@
+CS3630 project
+
+account logins:
+
+username			password
+
+cherryry			cherrypass
+ahlrichsa			ahlrichspass
+faithk				faithpass
+kollmanna			kollmannpass
